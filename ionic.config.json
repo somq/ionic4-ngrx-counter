@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ngrx-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
